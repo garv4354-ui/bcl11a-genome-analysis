@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+title: "ZFN vs TALEN vs CRISPR-Cas9: in-silico comparison at BCL11A"
+abstract: "Code, data and manuscript for an in-silico ZFN vs TALEN vs CRISPR-Cas9 design comparison at BCL11A."
+type: dataset
+authors:
+  - family-names: "[Family name]"
+    given-names: "[Given name]"
+    affiliation: "[Institution]"
+version: "1.0.0"
+date-released: "2026-11-01"
+license: MIT
+repository-code: "https://github.com/[your-username]/genome-editors-bcl11a-comparison"
+keywords:
+  - BCL11A
+  - genome editing
+  - in silico design

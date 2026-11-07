@@ -1,0 +1,7 @@
+rule,bcl11a_237bp_window_per_kb,median_of_45_exon_windows_per_kb
+SpCas9_NGG,135.0,143.5
+TALEN_tool_like,198.3,126.6
+TALEN_broad,244.7,189.9
+ZFN_strict_GNNx3,4.2,0.0
+ZFN_relaxed_2of3_GNN,80.2,97.0
+ZFN_4_fingers_GNNx4,0.0,0.0
